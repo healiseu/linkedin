@@ -1,1 +1,3 @@
-# linkedin
+# Linkedin
+
+I am pioneering R3DM/S3DM, an innovative, high-level data modelling architecture to power User-Centred, P2P, distributed computing network and apps implemented with Mathematica and HyperGraph DBMS. See my [Linkedin posts](https://www.linkedin.com/today/post/author/posts#published?trk=mp-reader-h), [Computational Semiotics](https://www.linkedin.com/groups/6514034) and [Semantic Web Research](https://www.linkedin.com/groups/129217) Groups that I manage. It will give me a great pleasure to have you in my LinkedIn network. For more information you may also visit [HEALIS.EU](http://healis.eu) web site and read in detail about my projects.
